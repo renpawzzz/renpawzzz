@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://pin.it/2iSF3FBel" width="120">
+</p>
 
 <!--
 **renpawzzz/renpawzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
